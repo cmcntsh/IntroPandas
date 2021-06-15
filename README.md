@@ -10,4 +10,26 @@
   
   ## Creating dataframes
   
+  * See Jupyter Notebook example
+
+  ## Opening files
+  
+  * See Jupyter Notebook example
+
+  ## Data structures
+  
+  * See Jupyter Notebook example
+
+  ## Sorting
+  
+  * See Jupyter Notebook example
+
+  ## Data manipulation
+  
+  * See Jupyter Notebook example
+
+  ## Saving files
+  
+  * See Jupyter Notebook example
+  
   
