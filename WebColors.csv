@@ -1,0 +1,17 @@
+id,name,hex
+1,White,#FFFFFF
+2,Silver,#C0C0C0
+3,Gray,#808080
+4,Black,#000000
+5,Red,#FF0000
+6,Maroon,#800000
+7,Yellow,#FFFF00
+8,Olive,#808000
+9,Lime,#00FF00
+10,Green,#008000
+11,Aqua,#00FFFF
+12,Teal,#008080
+13,Blue,#0000FF
+14,Navy,#000080
+15,Fuchsia,#FF00FF
+16,Purple,#800080
